@@ -1,0 +1,34 @@
+{
+  "placeholderImages": [
+    {
+      "id": "mock-user-1",
+      "description": "A person looking thoughtful.",
+      "imageUrl": "https://images.unsplash.com/photo-1761055922692-f0e5d1d78f10?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHx0aG91Z2h0ZnVsJTIwcGVyc29ufGVufDB8fHx8MTc3MDEzMzE0NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "thoughtful person"
+    },
+    {
+      "id": "mock-user-2",
+      "description": "A person looking at their phone.",
+      "imageUrl": "https://images.unsplash.com/photo-1526975631892-96373d047960?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxwZXJzb24lMjBwaG9uZXxlbnwwfHx8fDE3NzAyMDA4MTd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person phone"
+    },
+    {
+      "id": "mock-user-3",
+      "description": "A person in a city.",
+      "imageUrl": "https://images.unsplash.com/photo-1626972019843-435c6e18a307?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxwZXJzb24lMjBjaXR5fGVufDB8fHx8MTc3MDE5MDQxN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person city"
+    },
+    {
+      "id": "mock-user-4",
+      "description": "Abstract portrait.",
+      "imageUrl": "https://images.unsplash.com/photo-1622564045913-6241fcce67e4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxhYnN0cmFjdCUyMHBvcnRyYWl0fGVufDB8fHx8MTc3MDE3MzY0NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "abstract portrait"
+    },
+    {
+      "id": "mock-user-5",
+      "description": "A person smiling.",
+      "imageUrl": "https://images.unsplash.com/photo-1631377307475-9acfa929b062?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxzbWlsaW5nJTIwcGVyc29ufGVufDB8fHx8MTc3MDIzODMyOHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "smiling person"
+    }
+  ]
+}
